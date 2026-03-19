@@ -121,17 +121,3 @@ Robot1 → Robot2 → Robot3
 - Make sure namespaces are correct  
 - Adjust follow distance in the code if needed  
 
----
-
-## Future Improvements
-
-- Add PID control for smoother motion  
-- Improve stability and reduce oscillation  
-- Extend to more robots  
-- Add formation control  
-
----
-
-## License
-
-This project is for educational purposes.
